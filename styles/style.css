@@ -1,0 +1,29 @@
+p {
+    border: 1px solid red;
+}
+
+p, li {
+    color: black;
+    font-size: 18px; /* px means "pixels": the base font size is now 10 pixels high  */
+  }
+
+body {
+    text-align: center;
+}
+
+li {
+    text-align: left;
+}
+
+html {
+    font-family: 'Poppins', sans-serif; /* this should be the rest of the output you got from Google fonts */
+  }
+
+img {
+      display: block;
+      margin: 0 auto;
+  }
+
+h1 {
+      font-size: 50px;
+  }
